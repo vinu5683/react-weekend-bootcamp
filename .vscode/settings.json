@@ -1,0 +1,7 @@
+{
+    "search.exclude": {
+        "\"beautify.JSfiles\": [         \"js\",         \"json\",         \"jsbeautifyrc\",         \"jshintrc\",         \"ts\"     ]": true,
+        "\"beautify.onSave\": true,": true,
+        "\"editor.formatOnSave\": true,": true
+    }
+}
